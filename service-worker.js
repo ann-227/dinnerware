@@ -5,7 +5,7 @@ const staticAssets = [
     "./logo192.png",
     "./favicon.ico",
     "./telegram-web-app.js",
-    "./static/js/main.d240bb65.js",
+    "./static/js/main.ef425344.js",
     "./static/css/main.29a024ce.css"
 ];
 
