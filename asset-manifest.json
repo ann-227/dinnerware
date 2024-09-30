@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dinnerware/static/css/main.29a024ce.css",
-    "main.js": "/dinnerware/static/js/main.d240bb65.js",
+    "main.js": "/dinnerware/static/js/main.ef425344.js",
     "index.html": "/dinnerware/index.html",
     "main.29a024ce.css.map": "/dinnerware/static/css/main.29a024ce.css.map",
-    "main.d240bb65.js.map": "/dinnerware/static/js/main.d240bb65.js.map"
+    "main.ef425344.js.map": "/dinnerware/static/js/main.ef425344.js.map"
   },
   "entrypoints": [
     "static/css/main.29a024ce.css",
-    "static/js/main.d240bb65.js"
+    "static/js/main.ef425344.js"
   ]
 }
