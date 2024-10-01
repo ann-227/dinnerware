@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/dinnerware/static/css/main.29a024ce.css",
-    "main.js": "/dinnerware/static/js/main.ef425344.js",
+    "main.css": "/dinnerware/static/css/main.a22fd1f9.css",
+    "main.js": "/dinnerware/static/js/main.63cb713b.js",
+    "static/media/somethinWentWrong.png": "/dinnerware/static/media/somethinWentWrong.ff6fb4bedb4b762180dc.png",
     "index.html": "/dinnerware/index.html",
-    "main.29a024ce.css.map": "/dinnerware/static/css/main.29a024ce.css.map",
-    "main.ef425344.js.map": "/dinnerware/static/js/main.ef425344.js.map"
+    "main.a22fd1f9.css.map": "/dinnerware/static/css/main.a22fd1f9.css.map",
+    "main.63cb713b.js.map": "/dinnerware/static/js/main.63cb713b.js.map"
   },
   "entrypoints": [
-    "static/css/main.29a024ce.css",
-    "static/js/main.ef425344.js"
+    "static/css/main.a22fd1f9.css",
+    "static/js/main.63cb713b.js"
   ]
 }
